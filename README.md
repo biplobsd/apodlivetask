@@ -1,6 +1,9 @@
 # apodlivetask
 
-A new Flutter project.
+Apod: Astronomy Picture of the Day
+
+## Preview
+![image](https://github.com/user-attachments/assets/90dba616-24fa-455c-9609-be1ec3d59d53)
 
 ## Getting Started
 
